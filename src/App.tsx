@@ -4,6 +4,6 @@ import './App.css';
 
 export default function App() {
   return (
-    <div>BucksBucks</div>
+    <div>BucksBucks!!</div>
   )
 }
